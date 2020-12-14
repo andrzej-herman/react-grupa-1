@@ -1,3 +1,3 @@
-# Filmoteka
+# Filmoteka - katalog filmów z wyszukiwarką
 
-### Katalog filmów z wyszukiwarką
+### Aplikacja gr 1
