@@ -1,0 +1,8 @@
+
+.jumbo {
+    text-align: center;
+}
+
+.jumbo > h1 {
+    color: rgba(20, 20, 20, 0.7);
+}
